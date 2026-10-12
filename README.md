@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=RitamDutta54&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RitamDutta54&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
